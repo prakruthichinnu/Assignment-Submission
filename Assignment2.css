@@ -1,0 +1,44 @@
+.one
+{
+    height: 100px;
+    width: 100px;
+    background-color: red;
+    display: inline-block;
+    border:10px solid palegreen;
+}
+
+.two
+{
+    height: 100px;
+    width: 100px;
+    background-color: blue;
+    display: inline-block;
+    border: 10px solid powderblue;
+}
+
+.three
+{
+    height: 100px;
+    width: 100px;
+    background-color: green;
+    border: 10px solid red;
+    display: inline-block;
+}
+
+.four
+{
+    height: 100px;
+    width: 100px;
+    background-color: black;
+    display: inline-block;
+    border: 10px solid seagreen;
+}
+
+.five
+{
+    height: 100px;
+    width: 100px;
+    background-color: orange;
+    display: inline-block;
+    border:10px solid slateblue;
+}
